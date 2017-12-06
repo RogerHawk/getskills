@@ -1,6 +1,8 @@
 #测试现场保存
 main()
 {
-	printf( "%s", "Just a practice." );
+	int   i=0;
+
+	printf( "%s=%d", "Just a practice.", i );
 	exit(0);
 }
